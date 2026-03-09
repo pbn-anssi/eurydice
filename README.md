@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="128" height="128" src="frontend/public/lyre.png" alt="Eurydice icon">>
+  <img width="128" height="128" src="frontend/public/lyre.png" alt="Eurydice icon">
   <img src="https://www.sgdsn.gouv.fr/files/styles/ds_image_paragraphe/public/files/Notre_Organisation/logo_anssi.png" alt="ANSSI logo" height="130">
 </div>
 
